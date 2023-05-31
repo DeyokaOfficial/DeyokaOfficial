@@ -6,8 +6,6 @@
 
 🔭 I’m currently working on my portfolio page
 
-🌱 I’m currently learning HTML, CSS and Javascript
-
 👯 I’m looking to collaborate on Javascript, HTML, CSS
 
 🤔 I’m looking for help with Javascript
